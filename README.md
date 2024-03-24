@@ -24,8 +24,12 @@ Welcome to the Tic-Tac-Toe game repository! This is a fun and interactive versio
 ## Contacts
 
 -Gmail: pathakchitra90@gmail.com 
+
 -Github: https://github.com/githubchitra
+
 -Twitter: https://twitter.com/Chitra__13
+
+linkedin : www.linkedin.com/in/chitra-pathak-061359289
 
 ## **Enjoy the Game!**
 
