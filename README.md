@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-Welcome to the Tic-Tac-Go game repository! This is a fun and interactive version of the classic Tic-Tac-Toe game, implemented in C programming language.
+Welcome to the Tic-Tac-Toe game repository! This is a fun and interactive version of the classic Tic-Tac-Toe game, implemented in C programming language.
     
 
 ## **Follow the Prompts:**
@@ -18,7 +18,14 @@ Welcome to the Tic-Tac-Go game repository! This is a fun and interactive version
 ## Files
 
 -README.md : This file provides information about the project.
+
 -TIC-TAC-TOE.c : contains source code.
+
+## Contacts
+
+-Gmail: pathakchitra90@gmail.com 
+-Github: https://github.com/githubchitra
+-Twitter: https://twitter.com/Chitra__13
 
 ## **Enjoy the Game!**
 
