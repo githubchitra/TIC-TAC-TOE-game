@@ -1,4 +1,4 @@
-# Tic-Tac-Go Game
+# Tic-Tac-Toe Game
 
 Welcome to the Tic-Tac-Go game repository! This is a fun and interactive version of the classic Tic-Tac-Toe game, implemented in Go programming language.
 
