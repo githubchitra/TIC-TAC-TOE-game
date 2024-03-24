@@ -1,29 +1,11 @@
 # Tic-Tac-Toe Game
 
-Welcome to the Tic-Tac-Go game repository! This is a fun and interactive version of the classic Tic-Tac-Toe game, implemented in Go programming language.
-
-## How to Play
-
-1. **Clone the Repository:**
-    
-    git clone https://github.com/githubchitra/TIC-TAC-TOE-game
+Welcome to the Tic-Tac-Go game repository! This is a fun and interactive version of the classic Tic-Tac-Toe game, implemented in C programming language.
     
 
-2. **Navigate to the Directory:**
-    
-    cd tic-tac-go
-    
-
-3. **Run the Game:**
-    
-    go run main.go
-    
-
-4. **Follow the Prompts:**
+## **Follow the Prompts:**
     - Enter the row and column numbers to place your symbol.
     - The game alternates between players until a winner is determined or the board is filled.
-
-5. **Enjoy the Game!**
 
 ## Features
 
@@ -32,6 +14,13 @@ Welcome to the Tic-Tac-Go game repository! This is a fun and interactive version
 - Supports two players.
 - Basic error handling for invalid inputs.
 - Determines the winner or declares a draw.
+
+## Files
+
+-README.md : This file provides information about the project.
+-TIC-TAC-TOE.c : contains source code.
+
+## **Enjoy the Game!**
 
 ## Contributions
 
