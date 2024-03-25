@@ -68,10 +68,10 @@ int main(){
         print();
 
         if(isspace%2 == 0){
-            printf("enter the number where you want to mark -player2 : ");
+            printf("enter the number where you want to mark 'O' - player2 : ");
         }
         else{
-            printf("enter the number where you want to mark -player1 : ");
+            printf("enter the number where you want to mark 'X' - player1 : ");
         }
         scanf("%d",&n);
         change(isspace);
@@ -97,7 +97,7 @@ int main(){
     }
 
     if(a==0){
-        printf("DRAW");
+        printf("This match is a DRAW");
     }
 
     return 0;
