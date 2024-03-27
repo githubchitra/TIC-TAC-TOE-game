@@ -9,7 +9,7 @@ Welcome to the Tic-Tac-Toe game repository! This is a fun and interactive versio
 
 ## Features
 
-- Implemented in Go programming language.
+- Implemented in C programming language.
 - Simple command-line interface.
 - Supports two players.
 - Basic error handling for invalid inputs.
