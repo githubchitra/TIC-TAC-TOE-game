@@ -61,6 +61,15 @@ void change(int isspace){
     }
 }
 
+void issame(){
+    while(arr[n] == 'X' || arr[n] =='O'){
+        printf("You cannot mark there since it is already marked\nTry again");
+        scanf("%d",&n);        
+        system("cls");
+        print();
+    }
+}
+
 int main(){
     int isspace=9;
 
@@ -74,6 +83,7 @@ int main(){
             printf("enter the number where you want to mark 'X' - player1 : ");
         }
         scanf("%d",&n);
+        issame();
         change(isspace);
 
         int ans=checkwin();
