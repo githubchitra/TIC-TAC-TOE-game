@@ -4,7 +4,6 @@ Welcome to the Tic-Tac-Toe game repository! This is a fun and interactive versio
     
 
 ## **Follow the Prompts:**
-    - Enter the row and column numbers to place your symbol.
     - The game alternates between players until a winner is determined or the board is filled.
 
 ## Features
